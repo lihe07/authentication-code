@@ -57,7 +57,7 @@
             style:height={height + "px"}
         >
             <p class="class">{data.class}</p>
-            <p class="leave_time">出校时间：{$time}</p>
+            <p class="leave_time">出校时间：{formatted()}</p>
             <div class="name_area">
                 <p>{data.name}</p>
                 <p>{data.gender}</p>
