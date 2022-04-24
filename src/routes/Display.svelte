@@ -92,7 +92,7 @@
         top: 28%;
         width: 100%;
         text-align: center;
-        font-size: 18px;
+        font-size: 20px;
         color: #9d9d9d;
     }
     .name_area {
